@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on open source Golang projects.
 - 🤔 I’m looking for help with using github.com/jackc/pgx.
 - 💬 Ask me about Golang, gRPC and writing SQL queries.
-- 📫 How to reach me: [email](danvixent@gmail.com), [twitter](https://twitter.com/danvixent), [LinkedIn](linkedin.com/in/daniel-oluojomu).
+- 📫 How to reach me: [email](https://danvixent@gmail.com), [twitter](https://twitter.com/danvixent), [LinkedIn](https://linkedin.com/in/daniel-oluojomu).
 - 😄 Pronouns: Daniel.
 - ⚡ Fun fact: ...
