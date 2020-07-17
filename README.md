@@ -2,6 +2,7 @@
 
 <!--
 **danvixent/danvixent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 📫 How to reach me: (danvixent@gmail.com)[email], (twitter.com/danvixent)[twitter], (linkedin.com/in/daniel-oluojomu)[LinkedIn]
 - 😄 Pronouns: Daniel
 - ⚡ Fun fact: ...
--->
