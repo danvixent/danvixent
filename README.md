@@ -12,3 +12,7 @@
 - 📫 How to reach me: danvixent@gmail.com, [twitter](https://twitter.com/danvixent), [LinkedIn](https://linkedin.com/in/daniel-oluojomu).
 - 😄 Pronouns: Daniel.
 - ⚡ Fun fact: ...
+
+
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danvixent&theme=cobalt&show_icons=true&&line_height=40)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&theme=cobalt&show_icons=true)
