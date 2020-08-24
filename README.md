@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**danvixent/danvixent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi there 👋, I'm Daniel,
 
 - 🔭 I’m currently working on a gRPC based project.
 - 🌱 I’m currently learning microservices based architecture.
 - 👯 I’m looking to collaborate on open source Golang projects.
-- 🤔 I’m looking for help with using github.com/jackc/pgx.
+- 🤔 I’m looking for help with using learning algorithms.
 - 💬 Ask me about Golang, gRPC and writing SQL queries.
-- 📫 How to reach me: danvixent@gmail.com, [twitter](https://twitter.com/danvixent), [LinkedIn](https://linkedin.com/in/daniel-oluojomu).
-- 😄 Pronouns: Daniel.
+- 📫 How to reach me: danvixent@gmail.com, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/danvixent), [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='18'>](https://linkedin.com/daniel-oluojomu).
 - ⚡ Fun fact: I love chess.
 
 
