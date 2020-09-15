@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel,
 
-- 🔭 I’m currently working on a gRPC based project.
+- 🔭 I’m currently working on a gRPC based project & I'm open to junior/intern roles.
 - 🌱 I’m currently learning microservices based architecture.
 - 👯 I’m looking to collaborate on open source Golang projects.
 - 🤔 I’m looking for help; learning algorithms.
