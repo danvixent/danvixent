@@ -16,4 +16,4 @@
 
 
 
-![Codewars](https://www.codewars.com/users/danvixent/badges/large)
+<!--![Codewars](https://www.codewars.com/users/danvixent/badges/large)
