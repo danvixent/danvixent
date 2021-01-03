@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I love chess.
 
 
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danvixent&theme=buefy&show_icons=true&&line_height=40&count_private=true)
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&theme=buefy&show_icons=true)
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danvixent&theme=tokyonight&show_icons=true&&line_height=40&count_private=true)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&theme=tokyonight&show_icons=true)
 
 
 
