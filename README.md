@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Daniel,
 
 - 💬 Ask me about Golang, gRPC and writing SQL queries.
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='18'>](mailto:danvixent@gmail.com), [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/danvixent), [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='18'>](https://linkedin.com/in/daniel-oluojomu).
+- 📫 How to reach me: [<img src='https://img.icons8.com/fluency/48/000000/gmail-new.png' alt='gmail' height='18'>](mailto:danvixent@gmail.com), [<img src='https://img.icons8.com/carbon-copy/50/000000/twitter--v2.png' alt='twitter' height='18'>](https://twitter.com/danvixent), [<img src='https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png' alt='LinkedIn' height='18'>](https://linkedin.com/in/daniel-oluojomu).
 - ⚡ Fun fact: I love chess.
 
 
