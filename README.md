@@ -13,7 +13,8 @@
 ![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&theme=vision-friendly-dark&show_icons=true)
 
 
+---
 
+### 📝 My most recent blog posts
 
-
-<!--![Codewars](https://www.codewars.com/users/danvixent/badges/large)
+- [Setup PostgreSQL with SSL inside a Docker Container](https://dev.to/danvixent/how-to-setup-postgresql-with-ssl-inside-a-docker-container-5f3) (1 year ago)
