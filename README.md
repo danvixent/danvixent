@@ -13,8 +13,6 @@
 
 <img alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&line_height=30&theme=dark&show_icons=true" />
 
-<br/>
-
 ---
 
 ### 📝 My most recent blog posts
