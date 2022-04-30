@@ -17,4 +17,4 @@
 
 ### 📝 My most recent blog posts
 
-- [Setup PostgreSQL with SSL inside a Docker Container](https://dev.to/danvixent/how-to-setup-postgresql-with-ssl-inside-a-docker-container-5f3) (1 year ago)
+- [Setup PostgreSQL with SSL inside a Docker Container](https://dev.to/danvixent/how-to-setup-postgresql-with-ssl-inside-a-docker-container-5f3)
