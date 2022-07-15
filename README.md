@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Daniel</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 💬 Ask me about [Convoy](https://github.com/frain-dev/convoy), Golang, gRPC and writing SQL queries.
+- 💬 Ask me about Golang, gRPC and writing SQL queries.
 - 📫 How to reach me: [<img src='https://img.icons8.com/fluency/48/000000/gmail-new.png' alt='gmail' height='18'>](mailto:danvixent@gmail.com), [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='18'>](https://twitter.com/danvixent), [<img src='https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png' alt='LinkedIn' height='18'>](https://linkedin.com/in/daniel-oluojomu).
 - ⚡ Fun fact: I love chess.
 
