@@ -18,3 +18,4 @@
 ### 📝 My most recent blog posts
 
 - [Setup PostgreSQL with SSL inside a Docker Container](https://dev.to/danvixent/how-to-setup-postgresql-with-ssl-inside-a-docker-container-5f3)
+
